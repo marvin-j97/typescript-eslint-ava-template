@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/dotvirus/typescript-eslint-ava-template#readme",
   "devDependencies": {
-    "eslint": "^7.13.0",
+    "eslint": "^7.14.0",
     "eslint-config-prettier": "^6.15.0",
     "@types/node": "^14.14.9",
     "@typescript-eslint/eslint-plugin": "^4.0.0",
