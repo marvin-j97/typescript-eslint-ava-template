@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotvirus/typescript-eslint-ava-template.git"
+    "url": "git+https://github.com/marvin-j97/typescript-eslint-ava-template.git"
   },
   "keywords": [],
-  "author": "dotvirus",
+  "author": "marvin-j97",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dotvirus/typescript-eslint-ava-template/issues"
+    "url": "https://github.com/marvin-j97/typescript-eslint-ava-template/issues"
   },
-  "homepage": "https://github.com/dotvirus/typescript-eslint-ava-template#readme",
+  "homepage": "https://github.com/marvin-j97/typescript-eslint-ava-template#readme",
   "devDependencies": {
     "eslint-config-prettier": "^8.1.0",
     "eslint": "^7.22.0",
