@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/marvin-j97/typescript-eslint-ava-template#readme",
   "devDependencies": {
-    "@types/node": "^16.9.1",
+    "@types/node": "^16.9.2",
     "@typescript-eslint/parser": "^4.31.0",
     "@typescript-eslint/eslint-plugin": "^4.31.0",
     "ava": "^3.15.0",
